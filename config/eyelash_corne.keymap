@@ -107,7 +107,7 @@
             display-name = "NUMBER";
             bindings = <
 &kp TILDE       &kp N1         &kp N2           &kp N3           &kp N4            &kp N5                                        &mmv MOVE_UP                     &kp N6           &kp N7             &kp N8           &kp N9           &kp N0  &kp BSPC
-&kp C_AC_CLOSE  &kp C_AL_CALC  &none            &kp HOME         &kp END           &kp PAGE_DOWN                 &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp LEFT         &kp DOWN           &kp UP           &kp RIGHT        &none   &trans
+&kp C_AC_CLOSE  &kp C_AL_CALC  &screenshot      &kp HOME         &kp END           &kp PAGE_DOWN                 &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp LEFT         &kp DOWN           &kp UP           &kp RIGHT        &none   &trans
 &trans          &kp DELETE     &rgb_ug RGB_TOG  &rgb_ug RGB_EFF  &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp C_MUTE                    &mmv MOVE_DOWN                   &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &none   &trans
                                                 &trans           &trans            &trans                                                                         &trans           &mo 3              &trans
             >;
