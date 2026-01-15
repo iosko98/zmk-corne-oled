@@ -65,7 +65,7 @@ layers:
   - {t: '$$mdi:backspace$$', type: backspace}
   - AC CLOSE
   - AL CALC
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - '&screenshot'
   - HOME
   - END
   - PgDn
