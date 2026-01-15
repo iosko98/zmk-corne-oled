@@ -67,6 +67,16 @@
             bindings = <&kp MINUS>;
             key-positions = <23 24>;
         };
+
+        parenthL {
+            bindings = <&kp LEFT_PARENTHESIS>;
+            key-positions = <32 33>;
+        };
+
+        parenthR {
+            bindings = <&kp RIGHT_PARENTHESIS>;
+            key-positions = <36 37>;
+        };
     };
 
     keymap {
