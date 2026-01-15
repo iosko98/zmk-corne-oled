@@ -63,7 +63,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - AC CLOSE
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - AL CALC
   - '&screenshot'
   - HOME
